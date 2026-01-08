@@ -1,0 +1,13 @@
+{
+    "description": "Professional Scientific Calculator with History, Dark Mode, and Smart Order of Operations Logic",
+    "structure": "Modern Android (Kotlin + Compose + MVVM)",
+    "build_system": "Gradle (Version Catalog)",
+    "java_version": "17",
+    "features": [
+        "Scientific Operations (Root, Power, Parentheses)",
+        "Shunting-yard Algorithm for Precedence",
+        "History Tracking",
+        "Arabic/English Support",
+        "Dark/Light Theme"
+    ]
+}
